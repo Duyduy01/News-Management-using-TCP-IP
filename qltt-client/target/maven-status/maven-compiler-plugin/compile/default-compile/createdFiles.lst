@@ -1,0 +1,6 @@
+com\mycompany\qltt\client\NewsController.class
+model\News.class
+com\mycompany\qltt\client\MyObject.class
+com\mycompany\qltt\client\CategoryController.class
+model\Category.class
+com\mycompany\qltt\client\Main.class
